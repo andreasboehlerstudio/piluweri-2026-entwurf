@@ -1,0 +1,6 @@
+:HL["/piluweri-2026-entwurf/_next/static/css/823b834d12f945ff.css","style"]
+:HL["/piluweri-2026-entwurf/brand/draw-grow.webp","image"]
+:HL["/piluweri-2026-entwurf/media/e8ea14162c9ce68a2bba.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"slug","t":"c","k":"rezepte/gruener-salat-smoothie-mit-apfel-und-avocado-1-1","s":["_not-found","_global-error","robots.txt","sitemap.xml"]},"h":64,"c":"$Q2"}]]
+0:{"b":"pages-20261105202458881-4c6e5b2207-800f0d","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

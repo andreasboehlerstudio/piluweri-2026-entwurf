@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://andreasboehlerstudio.github.io/piluweri-2026-entwurf/sitemap.xml
